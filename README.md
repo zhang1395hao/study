@@ -10,8 +10,6 @@
 
 5，杋杋修改了，测试
 
-<<<<<<< HEAD
-6，无视 zhang 修改
-=======
 6，zhang 修改了，测试
->>>>>>> ec4a2323203df9a479adf40122ef428b3b21aeed
+
+7, zhangxinzeng
